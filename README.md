@@ -34,7 +34,7 @@ python dels_ins_subs_words.py <directory_path>
 
 ## Authors
 
-[Amanda Gisslen](https://github.com/AmandasRep)
+[Amanda Gisslen](https://github.com/AmandasRepo)
 
 [Jessica Machutta Widengren](https://github.com/jesswide)
 
